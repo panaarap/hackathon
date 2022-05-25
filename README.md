@@ -37,7 +37,7 @@ pip install lsq-ellipse circle_fit
 
 ## Hackathon Material
 * [Challenge Introduction Slides](./challenge_introduction.pdf)
-* [People Counting Paper](./people_counting_paper.pdf)
+* [People Counting Papers](./reference_papers)
 
 ## Useful Links
 * [Radar Basics](./radar_basics.pdf)
