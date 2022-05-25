@@ -85,4 +85,4 @@ In the context of raw radar data, a Sample is the basic smallest building block 
 **Julian** (Senior Embedded Systems Engineer)
 
 ### How to reach us?
-Please [open an issue]([https://github.com/Infineon/hackathon/issues) in this repository to ask your questions or talk to someone at the location :)
+Please [open an issue](https://github.com/Infineon/hackathon/issues) in this repository to ask your questions or talk to someone at the location :)
