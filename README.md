@@ -3,6 +3,8 @@
 
 # People Counting with Radar and ML (Hackathon)
 
+:information_source: **We have a Q&A for advanced radar and machine learning questions with the radar team in Munich at 16:00 CET.**
+
 ## Getting Started
 
 **TL;DR:** This quick guide explains how to acquire data from the Infineon radar board with Python.
