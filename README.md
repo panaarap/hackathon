@@ -80,6 +80,14 @@ In the context of raw radar data, a Sample is the basic smallest building block 
 
 **Sarfaraz** (Software Developer for Signal Processing)
 
+<img src="./img/marco.jfif" alt="Marco" height="150"/>
+
+**Marco** (Technical Marketing Director)
+
+<img src="./img/lorenzo.jfif" alt="Lorenzo" height="150"/>
+
+**Lorenzo** (Master's Thesis student for Radar)
+
 <img src="./img/julian.jfif" alt="Julian" height="150"/>
 
 **Julian** (Senior Embedded Systems Engineer)
