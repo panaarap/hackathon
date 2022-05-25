@@ -3,7 +3,7 @@
 
 # People Counting with Radar and ML (Hackathon)
 
-:information_source: **We have a Q&A for advanced radar and machine learning questions with the radar team in Munich at 16:00 CET.**
+:information_source: **Please check [here](./submission) for details about the project submission.**
 
 ## Getting Started
 
@@ -11,7 +11,7 @@
 
 Please start by installing [Python](https://www.python.org/) and [Pip](https://pypi.org/project/pip/). We also recommend to install [Jupyter](https://jupyter.org/) for running the examples.
 
-:warning: The recommended version of Python is 3.7, but it also works with Python 3.9. Problems occur currently with Python 3.10.
+:warning: The recommended version of Python is 3.7, but it also works with Python 3.8 and 3.9. Problems occur currently with Python 3.10.
 
 Afterwards you can clone this git repo:
 ```
@@ -54,7 +54,7 @@ pip install lsq-ellipse circle_fit
 The range map is the spectrum when using a single transmit frequency. The `x` value shows the distance between the radar sensor and the target. The `y` value shows the magnitude of the reflected signal.
 
 ### What is a Range Doppler Map?
-The range map is the spectrum when using varying transmit frequencies. The `x` value shows the distance between the radar sensor and the target. The `y` value shows the velocity of the target.
+The range doppler map is the spectrum when using varying transmit frequencies. The `x` value shows the distance between the radar sensor and the target. The `y` value shows the velocity of the target.
 
 ### What is a Chirp?
 A Chirp is a transmitted signal with varying frequency.
