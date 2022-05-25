@@ -11,7 +11,7 @@
 
 Please start by installing [Python](https://www.python.org/) and [Pip](https://pypi.org/project/pip/). We also recommend to install [Jupyter](https://jupyter.org/) for running the examples.
 
-:warning: The recommended version of Python is 3.7, but it also works with Python 3.8 and 3.9. Problems occur currently with Python 3.10.
+:warning: The recommended version of Python is 3.9, but it works with Python 3.7 to 3.9. Problems occur currently with Python 3.10.
 
 Afterwards you can clone this git repo:
 ```
