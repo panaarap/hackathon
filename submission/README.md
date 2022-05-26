@@ -1,18 +1,34 @@
 # Project Submission
 
 ## How to score?
-Check the [challenge introduction](../challenge_introduction.pdf) document for details.
+Check the [challenge introduction](../challenge_introduction.pdf) document for details. Here you find a summary of the evaluation criterias:
+
+| Criteria | Points |
+| ------------- | ------------- |
+| Algorithm innovation (Data collection, Overall Flow, etc.) | 20 |
+| People counting accuracy | 20 |
+| Application note | 20 |
+| Pitch & live demo | 20 |
+| Algorithm complexity (computational effort) | 20 |
 
 ## What needs to be included in the submission?
 
-### Pitch
+### Pitch (criterias: pitch, people counting accuracy)
 Your live presentation (max. 5 min) at the closing ceremony. Please also include a live demo of your solution in this presentation (e.g. 4 min presentation, 1 min live demo).
 
-### Code
+### Code (criterias: algorithm innovation, people counting accuracy)
 Your code in a *reconstructible* way, meaning we want to verify that your code is running and your results are reproducible. Please provide a step-by-step guide how to get your code running (including dependencies, software versions, etc.). You can also include that in the Application Note (see below).
 
-### Documentation
+### Documentation (criteria: application note)
 As in every professional project you have to document your results so others can understand what you did and how they can reproduce it. At Infineon we use Application Notes for that. In this folder you can find the template which you should use as basis for your Application Note (`Infineon-AppNote-Template.xxx`).
+Your Application Note can contain e.g. the following information:
+* How did you collect the data?
+* Which preprocessing steps did you do and why?
+* Which ML approach did you use? Why?
+* How did you train and validate the model?
+* Which results did you achieve?
+* Information about algorithm complexity
+* Please feel free to include graphs, plots, pictures or tables in your document.
 
 ### Feedback (Bonus)
 Please provide feedback for us. What did you like about the challenge? What should be improved? What would you do differently next time? This is optional, but can get you up to 10 bonus points.
